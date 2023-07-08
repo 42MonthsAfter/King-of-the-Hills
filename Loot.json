@@ -1,0 +1,199 @@
+{
+    "lootSets": [
+        {
+            "name": "TWP_ACE23",
+            "items": [
+                {
+                    "name": "TWP_ACE23",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "TWP_ACE23_mag_30Rnd",
+                            "quantity": 20,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "TWP_ACE23",
+            "items": [
+                {
+                    "name": "TWP_ACE23",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "TWP_ACE23_mag_30Rnd",
+                            "quantity": 20,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Ammo Pouch",
+            "items": [
+                {
+                    "name": "PlateCarrierPouches",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": [
+                        {
+                            "name": "Ammo_308Win",
+                            "quantity": 10,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "Ammo_308Win",
+                            "quantity": 10,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "Ammo_308Win",
+                            "quantity": 10,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "Ammo_308Win",
+                            "quantity": 10,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "TWP_ACE23_mag_30Rnd",
+                            "quantity": 1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "TWP_ACE23_mag_30Rnd",
+                            "quantity": 1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "TWP_ACE23_mag_30Rnd",
+                            "quantity": 1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "TWP_ACE23_mag_30Rnd",
+                            "quantity": 1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LoadedPlate",
+            "items": [
+                {
+                    "name": "PlateCarrierVest",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "PlateCarrierHolster",
+                            "quantity": -1,
+                            "attachments": [
+                                {
+                                    "name": "TWP_Beretta92FS",
+                                    "quantity": -1,
+                                    "attachments": [
+                                        {
+                                            "name": "PistolSuppressor",
+                                            "quantity": -1,
+                                            "attachments": [],
+                                            "cargo": []
+                                        },
+                                        {
+                                            "name": "TWP_Beretta92FS_mag_15Rnd",
+                                            "quantity": -1,
+                                            "attachments": [],
+                                            "cargo": []
+                                        }
+                                    ],
+                                    "cargo": []
+                                }
+                            ],
+                            "cargo": []
+                        },
+                        {
+                            "name": "PlateCarrierPouches",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": [
+                                {
+                                    "name": "TWP_Beretta92FS_mag_15Rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "TWP_Beretta92FS_mag_15Rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "TWP_Beretta92FS_mag_15Rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "TWP_Beretta92FS_mag_15Rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "TWP_Beretta92FS_mag_15Rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "TWP_HolyGrenade",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "TWP_MK2_Grenade",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "TWP_T13_Beano",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "TWP_M26",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        }
+    ]
+}
