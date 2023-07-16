@@ -1,15 +1,15 @@
 {
     "lootSets": [
         {
-            "name": "TWP_ACE23",
+            "name": "TWP_Stoner63",
             "items": [
                 {
-                    "name": "TWP_ACE23",
+                    "name": "TWP_Stoner63",
                     "quantity": -1,
                     "attachments": [
                         {
-                            "name": "TWP_ACE23_mag_30Rnd",
-                            "quantity": 20,
+                            "name": "TWP_Stoner63_mag_30Rnd",
+                            "quantity": 30,
                             "attachments": [],
                             "cargo": []
                         }
@@ -19,15 +19,15 @@
             ]
         },
         {
-            "name": "TWP_ACE23",
+            "name": "TWP_Stoner63",
             "items": [
                 {
-                    "name": "TWP_ACE23",
+                    "name": "TWP_Stoner63",
                     "quantity": -1,
                     "attachments": [
                         {
-                            "name": "TWP_ACE23_mag_30Rnd",
-                            "quantity": 20,
+                            "name": "TWP_Stoner63_mag_30Rnd",
+                            "quantity": 30,
                             "attachments": [],
                             "cargo": []
                         }
@@ -45,50 +45,50 @@
                     "attachments": [],
                     "cargo": [
                         {
-                            "name": "Ammo_308Win",
-                            "quantity": 10,
-                            "attachments": [],
-                            "cargo": []
-                        },
-                        {
-                            "name": "Ammo_308Win",
-                            "quantity": 10,
-                            "attachments": [],
-                            "cargo": []
-                        },
-                        {
-                            "name": "Ammo_308Win",
-                            "quantity": 10,
-                            "attachments": [],
-                            "cargo": []
-                        },
-                        {
-                            "name": "Ammo_308Win",
-                            "quantity": 10,
-                            "attachments": [],
-                            "cargo": []
-                        },
-                        {
-                            "name": "TWP_ACE23_mag_30Rnd",
+                            "name": "AmmoBox_556x45_20Rnd",
                             "quantity": 1,
                             "attachments": [],
                             "cargo": []
                         },
                         {
-                            "name": "TWP_ACE23_mag_30Rnd",
+                            "name": "AmmoBox_556x45_20Rnd",
                             "quantity": 1,
                             "attachments": [],
                             "cargo": []
                         },
                         {
-                            "name": "TWP_ACE23_mag_30Rnd",
+                            "name": "AmmoBox_556x45_20Rnd",
                             "quantity": 1,
                             "attachments": [],
                             "cargo": []
                         },
                         {
-                            "name": "TWP_ACE23_mag_30Rnd",
+                            "name": "AmmoBox_556x45_20Rnd",
                             "quantity": 1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "TWP_Stoner63_mag_30Rnd",
+                            "quantity": 30,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "TWP_Stoner63_mag_30Rnd",
+                            "quantity": 30,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "TWP_Stoner63_mag_30Rnd",
+                            "quantity": 30,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "TWP_Stoner63_mag_30Rnd",
+                            "quantity": 30,
                             "attachments": [],
                             "cargo": []
                         }
@@ -108,7 +108,7 @@
                             "quantity": -1,
                             "attachments": [
                                 {
-                                    "name": "TWP_Beretta92FS",
+                                    "name": "TWP_SigSauerP229",
                                     "quantity": -1,
                                     "attachments": [
                                         {
@@ -118,8 +118,8 @@
                                             "cargo": []
                                         },
                                         {
-                                            "name": "TWP_Beretta92FS_mag_15Rnd",
-                                            "quantity": -1,
+                                            "name": "TWP_SigSauerP229_mag_13Rnd",
+                                            "quantity": 13,
                                             "attachments": [],
                                             "cargo": []
                                         }
@@ -135,32 +135,32 @@
                             "attachments": [],
                             "cargo": [
                                 {
-                                    "name": "TWP_Beretta92FS_mag_15Rnd",
-                                    "quantity": -1,
+                                    "name": "TWP_SigSauerP229_mag_13Rnd",
+                                    "quantity": 13,
                                     "attachments": [],
                                     "cargo": []
                                 },
                                 {
-                                    "name": "TWP_Beretta92FS_mag_15Rnd",
-                                    "quantity": -1,
+                                    "name": "TWP_SigSauerP229_mag_13Rnd",
+                                    "quantity": 13,
                                     "attachments": [],
                                     "cargo": []
                                 },
                                 {
-                                    "name": "TWP_Beretta92FS_mag_15Rnd",
-                                    "quantity": -1,
+                                    "name": "TWP_Stoner63_mag_30Rnd",
+                                    "quantity": 30,
                                     "attachments": [],
                                     "cargo": []
                                 },
                                 {
-                                    "name": "TWP_Beretta92FS_mag_15Rnd",
-                                    "quantity": -1,
+                                    "name": "TWP_Stoner63_mag_30Rnd",
+                                    "quantity": 30,
                                     "attachments": [],
                                     "cargo": []
                                 },
                                 {
-                                    "name": "TWP_Beretta92FS_mag_15Rnd",
-                                    "quantity": -1,
+                                    "name": "TWP_Stoner63_mag_30Rnd",
+                                    "quantity": 30,
                                     "attachments": [],
                                     "cargo": []
                                 }
