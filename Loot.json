@@ -1,15 +1,15 @@
 {
     "lootSets": [
         {
-            "name": "TWP_Stoner63",
+            "name": "TWP_FamasSpecialOps",
             "items": [
                 {
-                    "name": "TWP_Stoner63",
+                    "name": "TWP_FamasSpecialOps",
                     "quantity": -1,
                     "attachments": [
                         {
-                            "name": "TWP_Stoner63_mag_30Rnd",
-                            "quantity": 30,
+                            "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                            "quantity": 40,
                             "attachments": [],
                             "cargo": []
                         }
@@ -19,15 +19,15 @@
             ]
         },
         {
-            "name": "TWP_Stoner63",
+            "name": "TWP_FamasSpecialOps",
             "items": [
                 {
-                    "name": "TWP_Stoner63",
+                    "name": "TWP_FamasSpecialOps",
                     "quantity": -1,
                     "attachments": [
                         {
-                            "name": "TWP_Stoner63_mag_30Rnd",
-                            "quantity": 30,
+                            "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                            "quantity": 40,
                             "attachments": [],
                             "cargo": []
                         }
@@ -69,26 +69,26 @@
                             "cargo": []
                         },
                         {
-                            "name": "TWP_Stoner63_mag_30Rnd",
-                            "quantity": 30,
+                            "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                            "quantity": 40,
                             "attachments": [],
                             "cargo": []
                         },
                         {
-                            "name": "TWP_Stoner63_mag_30Rnd",
-                            "quantity": 30,
+                            "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                            "quantity": 40,
                             "attachments": [],
                             "cargo": []
                         },
                         {
-                            "name": "TWP_Stoner63_mag_30Rnd",
-                            "quantity": 30,
+                            "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                            "quantity": 40,
                             "attachments": [],
                             "cargo": []
                         },
                         {
-                            "name": "TWP_Stoner63_mag_30Rnd",
-                            "quantity": 30,
+                            "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                            "quantity": 40,
                             "attachments": [],
                             "cargo": []
                         }
@@ -108,7 +108,7 @@
                             "quantity": -1,
                             "attachments": [
                                 {
-                                    "name": "TWP_SigSauerP229",
+                                    "name": "TWP_MK23Socom",
                                     "quantity": -1,
                                     "attachments": [
                                         {
@@ -118,7 +118,7 @@
                                             "cargo": []
                                         },
                                         {
-                                            "name": "TWP_SigSauerP229_mag_13Rnd",
+                                            "name": "TWP_MK23Socom_mag_12Rnd",
                                             "quantity": 13,
                                             "attachments": [],
                                             "cargo": []
@@ -135,57 +135,57 @@
                             "attachments": [],
                             "cargo": [
                                 {
-                                    "name": "TWP_SigSauerP229_mag_13Rnd",
+                                    "name": "TWP_MK23Socom_mag_12Rnd",
                                     "quantity": 13,
                                     "attachments": [],
                                     "cargo": []
                                 },
                                 {
-                                    "name": "TWP_SigSauerP229_mag_13Rnd",
+                                    "name": "TWP_MK23Socom_mag_12Rnd",
                                     "quantity": 13,
                                     "attachments": [],
                                     "cargo": []
                                 },
                                 {
-                                    "name": "TWP_Stoner63_mag_30Rnd",
-                                    "quantity": 30,
+                                    "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                                    "quantity": 40,
                                     "attachments": [],
                                     "cargo": []
                                 },
                                 {
-                                    "name": "TWP_Stoner63_mag_30Rnd",
-                                    "quantity": 30,
+                                    "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                                    "quantity": 40,
                                     "attachments": [],
                                     "cargo": []
                                 },
                                 {
-                                    "name": "TWP_Stoner63_mag_30Rnd",
-                                    "quantity": 30,
+                                    "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                                    "quantity": 40,
                                     "attachments": [],
                                     "cargo": []
                                 }
                             ]
                         },
                         {
-                            "name": "TWP_HolyGrenade",
+                            "name": "TWP_JackintheBox",
                             "quantity": -1,
                             "attachments": [],
                             "cargo": []
                         },
                         {
-                            "name": "TWP_MK2_Grenade",
+                            "name": "TWP_Zarya3_StunGrenade",
                             "quantity": -1,
                             "attachments": [],
                             "cargo": []
                         },
                         {
-                            "name": "TWP_T13_Beano",
+                            "name": "TWP_M69",
                             "quantity": -1,
                             "attachments": [],
                             "cargo": []
                         },
                         {
-                            "name": "TWP_M26",
+                            "name": "TWP_TennisBall_Grenade",
                             "quantity": -1,
                             "attachments": [],
                             "cargo": []
