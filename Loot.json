@@ -1,14 +1,14 @@
 {
     "lootSets": [
         {
-            "name": "TWP_FamasSpecialOps",
+            "name": "TWP_SteyrAugA3",
             "items": [
                 {
-                    "name": "TWP_FamasSpecialOps",
+                    "name": "TWP_SteyrAugA3",
                     "quantity": -1,
                     "attachments": [
                         {
-                            "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                            "name": "TWP_SteyrAug_mag_45Rnd",
                             "quantity": 40,
                             "attachments": [],
                             "cargo": []
@@ -19,14 +19,14 @@
             ]
         },
         {
-            "name": "TWP_FamasSpecialOps",
+            "name": "TWP_SteyrAugA3",
             "items": [
                 {
-                    "name": "TWP_FamasSpecialOps",
+                    "name": "TWP_SteyrAugA3",
                     "quantity": -1,
                     "attachments": [
                         {
-                            "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                            "name": "TWP_SteyrAug_mag_45Rnd",
                             "quantity": 40,
                             "attachments": [],
                             "cargo": []
@@ -69,25 +69,25 @@
                             "cargo": []
                         },
                         {
-                            "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                            "name": "TWP_SteyrAug_mag_45Rnd",
                             "quantity": 40,
                             "attachments": [],
                             "cargo": []
                         },
                         {
-                            "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                            "name": "TWP_SteyrAug_mag_45Rnd",
                             "quantity": 40,
                             "attachments": [],
                             "cargo": []
                         },
                         {
-                            "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                            "name": "TWP_SteyrAug_mag_45Rnd",
                             "quantity": 40,
                             "attachments": [],
                             "cargo": []
                         },
                         {
-                            "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                            "name": "TWP_SteyrAug_mag_45Rnd",
                             "quantity": 40,
                             "attachments": [],
                             "cargo": []
@@ -108,7 +108,7 @@
                             "quantity": -1,
                             "attachments": [
                                 {
-                                    "name": "TWP_MK23Socom",
+                                    "name": "TWP_Glock19M",
                                     "quantity": -1,
                                     "attachments": [
                                         {
@@ -118,8 +118,8 @@
                                             "cargo": []
                                         },
                                         {
-                                            "name": "TWP_MK23Socom_mag_12Rnd",
-                                            "quantity": 13,
+                                            "name": "TWP_Glock19M_mag_15Rnd",
+                                            "quantity": 15,
                                             "attachments": [],
                                             "cargo": []
                                         }
@@ -135,31 +135,31 @@
                             "attachments": [],
                             "cargo": [
                                 {
-                                    "name": "TWP_MK23Socom_mag_12Rnd",
+                                    "name": "TWP_Glock19M_mag_15Rnd",
                                     "quantity": 13,
                                     "attachments": [],
                                     "cargo": []
                                 },
                                 {
-                                    "name": "TWP_MK23Socom_mag_12Rnd",
+                                    "name": "TWP_Glock19M_mag_15Rnd",
                                     "quantity": 13,
                                     "attachments": [],
                                     "cargo": []
                                 },
                                 {
-                                    "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                                    "name": "TWP_SteyrAug_mag_45Rnd",
                                     "quantity": 40,
                                     "attachments": [],
                                     "cargo": []
                                 },
                                 {
-                                    "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                                    "name": "TWP_SteyrAug_mag_45Rnd",
                                     "quantity": 40,
                                     "attachments": [],
                                     "cargo": []
                                 },
                                 {
-                                    "name": "TWP_FamasSpecialOps_mag_40Rnd",
+                                    "name": "TWP_SteyrAug_mag_45Rnd",
                                     "quantity": 40,
                                     "attachments": [],
                                     "cargo": []
